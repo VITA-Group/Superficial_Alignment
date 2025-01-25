@@ -1,0 +1,5 @@
+{
+    "logit_path": "/mnt/vita-nas/runjin/DeepEdit/proxy-tuning/logits/gsm/dexperts-7B-chat7B/logit_model/0_1000-hidden-logit-residual-rank-1-full_distill_random_init/lr_1e-05_bs_1000/epoch_500.pt",
+    "exact_match": 0.11
+}
+
